@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "492993047364",
+    "project_id": "smstesting-9322e",
+    "storage_bucket": "smstesting-9322e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:492993047364:android:e6f76e5cf855a672498511",
+        "android_client_info": {
+          "package_name": "com.example.sms_testing2"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC2kcKY0ia9XjPb2-CFxmsnSYsb1ftpkGI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
